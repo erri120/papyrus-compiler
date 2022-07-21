@@ -17,5 +17,5 @@ features = ["ariadne-support"]
 
 [dependencies]
 anyhow = "1.0.58"
-clap = { version = "3.2.12", features = ["derive"] }
+clap = { version = "3.2.14", features = ["derive"] }
 ariadne = "0.1.5"
